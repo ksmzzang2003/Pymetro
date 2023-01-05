@@ -1,0 +1,7 @@
+https://github.com/ledyx/KoreaMetroData
+
+https://data.seoul.go.kr/dataList/OA-12914/S/1/datasetView.do
+
+https://observablehq.com/@taekie/seoul_subway_station_coordinate
+
+https://data.seoul.go.kr/dataList/OA-15442/S/1/datasetView.do
